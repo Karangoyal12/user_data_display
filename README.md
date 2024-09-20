@@ -45,6 +45,18 @@ The app fetches user data from the following public API:
 - Designed the app to be responsive and user-friendly, focusing on the essential features as outlined in the requirements.
 
 ## Screenshots
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
+    <img src="screenshots/splash_screen.jpg" alt="Splash Screen" width="200" style="margin: 5px;">
+    <img src="screenshots/loading_screen.jpg" alt="Loading Screen" width="200" style="margin: 5px;">
+    <img src="screenshots/users_screen.jpg" alt="Users Screen" width="200" style="margin: 5px;">
+    <img src="screenshots/detail_screen.jpg" alt="Detail Screen" width="200" style="margin: 5px;">
+    <img src="screenshots/error_handling_screen.jpg" alt="Error Handling Screen" width="200" style="margin: 5px;">
+    <img src="screenshots/refreshing_screen.jpg" alt="Refreshing Screen" width="200" style="margin: 5px;">
+    <img src="screenshots/search_screen.jpg" alt="Search Screen" width="200" style="margin: 5px;">
+</div>
+
+
+
 ![Splash Screen](screenshots/splash_screen.jpg)
 ![Loading Screen](screenshots/loading_screen.jpg)
 ![Users Screen](screenshots/users_screen.jpg)
