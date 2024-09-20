@@ -55,12 +55,3 @@ The app fetches user data from the following public API:
     <img src="screenshots/search_screen.jpg" alt="Search Screen" width="200" style="margin: 5px;">
 </div>
 
-
-
-![Splash Screen](screenshots/splash_screen.jpg)
-![Loading Screen](screenshots/loading_screen.jpg)
-![Users Screen](screenshots/users_screen.jpg)
-![Details Screen](screenshots/detail Screen.jpg)
-![Error Screen](screenshots/error_handling_screen.jpg)
-![Refreshing Screen](screenshots/refreshing_screen.jpg)
-![Search Screen](screenshots/search_screen.jpg)
